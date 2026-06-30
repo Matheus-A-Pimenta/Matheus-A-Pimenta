@@ -1,4 +1,4 @@
-## Hi there 👋
+Olá, eu sou o Mtheus Pimenta e atualmente estou em transição de carreira. Sou Engenheiro Mecatrônico e atualmente estudande de Análise e Desenvolvimento de Sistemas.
 
 <!--
 **Matheus-A-Pimenta/Matheus-A-Pimenta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
